@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title>Afonso Ndombe</title>
+<link rel="stylesheet" type="text/css"href="estilo.css"/>
+</head>
+<body>
+<div id="interface">
+
+<header id="cabecalho">
+<hgrupo>
+<h1 style="text-align: center">Seja bem vindo a minha Pagina</h1><br></br>
+</div>
+<nav id="menu">
+<h1>Menu principal</h1> 
+ <ul type="disc">
+ 	
+ 	<li><a href="sobre.sublime-workspace">Sobre</a></li>
+	<li><a href="Passatempo">PassaTempo</a></li>
+</ul>
+</nav>
+</hgrupo>
+</header>
+
+Gosto de Sair
+jogar footbol 
+Mais fico todo tempo a escrever codigo para melhorar o meu conhecimento quanto as linguagens de programção
